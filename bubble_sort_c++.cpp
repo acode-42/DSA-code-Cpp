@@ -1,3 +1,5 @@
+//Sorting an array 'arr' with 'n' elements
+
 #include<iostream>
 
 using namespace std;
