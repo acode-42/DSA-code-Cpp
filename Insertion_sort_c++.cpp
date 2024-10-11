@@ -1,3 +1,5 @@
+//Performing Insertion Sort on an array 'arr' of size 'n'
+
 #include <iostream>
 
 using namespace std;
