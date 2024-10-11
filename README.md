@@ -1,4 +1,4 @@
-# DSA-code-C-
+# DSA-code-Cpp
 Respository of DSA code challenges 
 
 Daily Coding Challenges and Codes
