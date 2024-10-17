@@ -1,4 +1,5 @@
 // Find missing number in array
+//Using XOR approach
 
 #include <bits/stdc++.h>
 
